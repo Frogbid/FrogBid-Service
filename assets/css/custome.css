@@ -1,0 +1,22 @@
+.night-mode {
+   background-color: #1494DF;
+   color: white;
+}
+
+.shakeIn{
+   color: #1494DF;
+   text-shadow: 1px 1px 1px 1px;
+}
+
+.index-card {
+  background: white;
+}
+
+.index-card:hover {
+  background: #243447;
+  color: white;
+}
+
+
+
+

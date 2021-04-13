@@ -1,0 +1,18 @@
+.modal-footer {
+    display: -ms-flexbox;
+    display: inline-block;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    padding: 1rem;
+    border-top: 1px solid #dee2e6;
+    border-bottom-right-radius: .3rem;
+    border-bottom-left-radius: .3rem;
+}
+
+label {
+    text-transform: capitalize;
+}
+
+
